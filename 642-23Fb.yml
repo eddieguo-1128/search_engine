@@ -1,0 +1,12 @@
+name: 642-23Fb
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - conda=23.7.3
+  - cython=3.0
+  - openjdk=20.0
+  - pip=23.2.1
+  - python=3.8
+  - pip:
+    - pyjnius==1.5.0
