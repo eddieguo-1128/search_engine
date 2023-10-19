@@ -1,0 +1,4 @@
+Sep 8, 2023
+
+* QrySop.py: Moved import sys outside the class
+* RetrievalModel.py: Moved import sys outside the class
